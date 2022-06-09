@@ -25,7 +25,6 @@ public class App {
 
         }
         System.out.println("Inversion count: " + inversionCount);
-        System.out.println(pairs);
 
     }
 }
